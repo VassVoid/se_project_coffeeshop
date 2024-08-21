@@ -103,6 +103,10 @@ a {
   padding: 100px 80px 215px;
 }
 
+.recipes__iframes {
+  border: none;
+}
+
 .recipes__title {
   margin: 0 0 24px;
   font-family: "Inter", "Arial", sans-serif;
