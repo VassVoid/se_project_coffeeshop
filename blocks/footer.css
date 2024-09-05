@@ -1,0 +1,8 @@
+.footer {
+  background: linear-gradient(180deg, 0%, #071931 100%);
+}
+
+.footer__logo {
+  width: 105px;
+  height: 39px;
+}
