@@ -40,6 +40,7 @@ input::placeholder {
 
 .form__button:hover {
   background-color: #3f96f3;
+  transition: background-color 1s linear 2s;
 }
 
 .form__checkbox {
