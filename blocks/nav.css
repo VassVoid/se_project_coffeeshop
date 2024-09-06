@@ -9,6 +9,11 @@
   gap: 20px;
   padding: 0;
   margin: 0;
+  opacity: 50%;
+}
+
+.nav__links:hover {
+  opacity: 100%;
 }
 
 a {
