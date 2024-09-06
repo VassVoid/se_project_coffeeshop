@@ -5,11 +5,12 @@
 
 .nav__link {
   opacity: 100%;
+  transition: opacity 1s ease-in-out;
 }
 
 .nav__link:hover {
   opacity: 50%;
-  transition: opacity 1s ease-in-out 2s;
+  cursor: pointer;
 }
 
 .nav__links {

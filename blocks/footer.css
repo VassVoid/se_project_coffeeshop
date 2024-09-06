@@ -3,6 +3,10 @@
   padding: 60px 80px 60px;
 }
 
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+}
 .footer__logo {
   width: 105px;
   height: 39px;
@@ -30,7 +34,6 @@
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
 }
 
 .footer__social-link {
@@ -42,13 +45,13 @@
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .footer__social-link:hover {
   color: #c1c1c1;
   cursor: pointer;
   opacity: 70%;
-  transition: opacity 1s linear 2s;
 }
 
 .footer__social-icon {

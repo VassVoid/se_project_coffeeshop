@@ -36,11 +36,12 @@ input::placeholder {
   line-height: 20px;
   color: #fff;
   background-color: #1878dc;
+  transition: background-color 1s ease-in-out;
 }
 
 .form__button:hover {
   background-color: #3f96f3;
-  transition: background-color 1s linear 2s;
+  cursor: pointer;
 }
 
 .form__checkbox {
