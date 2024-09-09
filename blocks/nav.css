@@ -6,6 +6,10 @@
 .nav__link {
   opacity: 100%;
   transition: opacity 1s ease-in-out;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .nav__link:hover {

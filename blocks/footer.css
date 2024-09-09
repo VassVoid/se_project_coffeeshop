@@ -29,6 +29,9 @@
 .footer__column-heading {
   margin: 0 0 20px;
   color: #fff;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__column_content_social {
@@ -42,7 +45,6 @@
   gap: 10px;
   text-decoration: none;
   font-family: "Inter", "Arial", sans-serif;
-  font-weight: bold;
   font-size: 16px;
   line-height: 20px;
   transition: opacity 0.3s ease-in-out;
