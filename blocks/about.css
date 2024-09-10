@@ -50,14 +50,6 @@
   margin: 0 0 20px;
 }
 
-.about__paragraph:first-child {
-  margin: 0 0 20px;
-}
-
-.about__paragraph:last-child {
-  margin: 0 0 20px;
-}
-
 .about__circle {
   width: 426px;
   height: 426px;
